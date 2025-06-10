@@ -11,8 +11,12 @@ for i in *.mrc;do 3dmod -W $i;done
 
 
 - membrain-seg
+
+to activate membrain env:
 conda activate "membrain-seg_env"
-membrain segment --tomogram-path $i --ckpt-path ∼/MemBrain_seg_v10_alpha.ckpt --store-connected-components --rescale-patches
+
+to segment tomo.mrc
+membrain segment --tomogram-path tomo.mrc --ckpt-path ∼/MemBrain_seg_v10_alpha.ckpt --store-connected-components --rescale-patches
 
 
 for i in *.mrc; do membrain segment --tomogram-path $i --ckpt-path ∼/MemBrain_seg_v10_alpha.ckpt --store-connected-components --rescale-patches; done
