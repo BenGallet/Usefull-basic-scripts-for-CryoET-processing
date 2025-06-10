@@ -1,0 +1,24 @@
+# Basic Usefull scripts
+
+- IMOD:
+
+to open all the .mrc files of a folder, one by one
+for i in *.mrc;do 3dmod -W $i;done
+
+
+
+- AreTomo2:
+
+
+- membrain-seg
+conda activate "membrain-seg_env"
+membrain segment --tomogram-path $i --ckpt-path ∼/MemBrain_seg_v10_alpha.ckpt --store-connected-components --rescale-patches
+
+
+for i in *.mrc; do membrain segment --tomogram-path $i --ckpt-path ∼/MemBrain_seg_v10_alpha.ckpt --store-connected-components --rescale-patches; done
+
+
+- CryoCARE
+conda activate "cryocare_env"
+
+- 
