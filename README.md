@@ -17,5 +17,12 @@ CryoCARE: https://github.com/juglab/cryoCARE_pip
 
 Scipion-em: https://scipion-em.github.io/docs/release-3.0.0/index.html<br/>
 <br/>
+
+
+# 3D models of usefull tools for EM/CryoET related experiments, to be 3D printed
+
+
+You will find in this [3D models](./3dmodels) page a list of usefull 3D models to print<br/>
+
 <br/>
 _Benoit Gallet 2025, UGA/CEA/CNRS Institut de Biologie Structurale, grenoble, France_
