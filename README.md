@@ -25,4 +25,5 @@ Scipion-em: https://scipion-em.github.io/docs/release-3.0.0/index.html<br/>
 You will find in this [3D models](./3dmodels.md) page a list of usefull 3D models to print<br/>
 
 <br/>
+
 _Benoit Gallet 2025, UGA/CEA/CNRS Institut de Biologie Structurale, grenoble, France_
