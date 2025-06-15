@@ -7,6 +7,7 @@
 [3D file](./3mm_hpf_carrier.stl) 
 
 2- Storage box and lid for 6mm HPF carriers
+[3D file](./6mm_hpf_carrier.stl) 
 
 ## Cell culture related tools
 
