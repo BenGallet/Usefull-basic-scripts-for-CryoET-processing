@@ -8,7 +8,7 @@ IMOD: https://bio3d.colorado.edu/imod/
 
 AreTomo2: https://github.com/czimaginginstitute/AreTomo2
 
-memBrain-seg: https://github.com/teamtomo/membrain-seg?tab=readme-ov-file
+MemBrain-seg: https://github.com/teamtomo/membrain-seg?tab=readme-ov-file
 
 CryoCARE: https://github.com/juglab/cryoCARE_pip
 
